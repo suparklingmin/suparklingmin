@@ -4,7 +4,7 @@ Sumin (formerly known as Suzi) PARK | 박수민 | 朴修敏
 
 
 #### Current Teaching
-- Spring 2023– [Digital Computer Concept and Practics(컴퓨터의 개념 및 실습)](https://github.com/suparklingmin/DCCP2023)
+- Spring 2023– [Digital Computer Concept and Practice(컴퓨터의 개념 및 실습)](https://github.com/suparklingmin/DCCP2023)
 - Autumn 2022- [Linguistics and Data Science(언어데이터과학)](https://github.com/suparklingmin/LingDataSci2023)
 
 #### Previous Teaching
