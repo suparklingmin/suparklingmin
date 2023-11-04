@@ -2,7 +2,7 @@
 
 Sumin (formerly known as Suzi) PARK, Ph.D. | 박수민 | 朴修敏 
 
-#### My favorite song right now
+#### My favorite song right now 🎧
 - [*Libro IV d'intavolatura di chitarrone*: “Capona” by Giovanni Girolamo Kapsberger](https://www.youtube.com/watch?v=xp7MCdxUkoo)
 
 <!--
