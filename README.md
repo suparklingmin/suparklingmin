@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Sumin (formerly known as Suzi) PARK | 박수민 | 朴修敏 
+
 <!--
 **suparklingmin/suparklingmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
